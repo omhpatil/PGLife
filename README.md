@@ -1,5 +1,5 @@
 # PG-Life Web Development
-Welcome to PG Life Web Development! This project is aimed at creating a comprehensive platform tailored for PG (Paying Guest) accommodations, focusing on delivering a seamless experience for both landlords and tenants.
+Welcome to PG Life Web Development! Our goal is to build a user-friendly platform specifically for PG (Paying Guest) accommodations. We want to make renting rooms easy and enjoyable for both landlords and tenants.
 # Features
 - User Authentication: Secure authentication system for landlords and tenants to access their accounts.
 - Listing Management: Easily add, edit, and remove property listings with detailed descriptions and images.
