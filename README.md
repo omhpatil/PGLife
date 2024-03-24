@@ -11,3 +11,10 @@ Welcome to PG Life Web Development! This project is aimed at creating a comprehe
 - Messaging System: Built-in messaging feature for communication between landlords and tenants regarding inquiries, bookings, and more.
 - Reviews and Ratings: Enable tenants to leave reviews and ratings, providing valuable feedback for both landlords and future tenants.
 - Responsive Design: Mobile-friendly design ensuring a seamless experience across devices.
+
+# Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
+Additional Tools: Git, GitHub, VS Code
