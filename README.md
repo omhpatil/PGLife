@@ -13,4 +13,4 @@ Backend: PHP
 Database: MySQL
 Additional Tools: Git, GitHub, VS Code
 
-# Feel free to customize and expand upon this template to best fit your project's specific features and requirements.
+
